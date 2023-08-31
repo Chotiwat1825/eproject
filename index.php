@@ -8,8 +8,8 @@
 </head>
 
 <body>
-    <? echo 'hello word' ?>
-    <? echo 'hello word2' ?>
+    <?= 'hello word'; ?>
+    <?= 'hello word2'; ?>
 </body>
 
 </html>
