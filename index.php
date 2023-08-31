@@ -9,6 +9,7 @@
 
 <body>
     <? echo 'hello word' ?>
+    <? echo 'hello word2' ?>
 </body>
 
 </html>
